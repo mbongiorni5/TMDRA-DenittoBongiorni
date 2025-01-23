@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 21,
+    "height" : 16
+  }, {
+    "width" : 41,
+    "height" : 31
+  }, {
+    "width" : 82,
+    "height" : 62
+  }, {
+    "width" : 164,
+    "height" : 123
+  }, {
+    "width" : 328,
+    "height" : 246
+  }, {
+    "width" : 656,
+    "height" : 492
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 656,
+  "@id" : "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/eva_cantarella",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 492
+}

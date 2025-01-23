@@ -7,5 +7,87 @@
             "All images loaded in mbongiorni5/TMDRA-DenittoBongiorni project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/eva_cantarella/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "eva_cantarella"
+                ]
+            },
+            "height": 492,
+            "width": 656,
+            "items": [
+                {
+                    "id": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/eva_cantarella/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/eva_cantarella/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/eva_cantarella/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 21,
+                                                "height": 16
+                                            },
+                                            {
+                                                "width": 41,
+                                                "height": 31
+                                            },
+                                            {
+                                                "width": 82,
+                                                "height": 62
+                                            },
+                                            {
+                                                "width": 164,
+                                                "height": 123
+                                            },
+                                            {
+                                                "width": 328,
+                                                "height": 246
+                                            },
+                                            {
+                                                "width": 656,
+                                                "height": 492
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 656,
+                                        "@id": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/eva_cantarella",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 492,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/eva_cantarella/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
