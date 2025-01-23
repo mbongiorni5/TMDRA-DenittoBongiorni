@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/evacantarella/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "evacantarella"
+                ]
+            },
+            "height": 855,
+            "width": 1280,
+            "items": [
+                {
+                    "id": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/evacantarella/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/evacantarella/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/evacantarella/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 40,
+                                                "height": 27
+                                            },
+                                            {
+                                                "width": 80,
+                                                "height": 54
+                                            },
+                                            {
+                                                "width": 160,
+                                                "height": 107
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 214
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 428
+                                            },
+                                            {
+                                                "width": 1280,
+                                                "height": 855
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1280,
+                                        "@id": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/evacantarella",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 855,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/evacantarella/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/eva_cantarella/canvas/",
             "type": "Canvas",
             "label": {
