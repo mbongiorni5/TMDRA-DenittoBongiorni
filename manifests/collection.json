@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/manifests/manifest.json",
     "label" : "eva"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/manifests/manifest(1).json",
+    "label" : "mela"
   } ]
 }
