@@ -1,0 +1,13 @@
+{
+  "id" : "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in mbongiorni5/TMDRA-DenittoBongiorni project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/manifests/manifest.json",
+    "label" : "eva"
+  } ]
+}
