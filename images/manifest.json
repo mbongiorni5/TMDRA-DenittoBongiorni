@@ -169,6 +169,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/mela/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "mela"
+                ]
+            },
+            "height": 222,
+            "width": 227,
+            "items": [
+                {
+                    "id": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/mela/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/mela/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/mela/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 8,
+                                                "height": 7
+                                            },
+                                            {
+                                                "width": 15,
+                                                "height": 14
+                                            },
+                                            {
+                                                "width": 29,
+                                                "height": 28
+                                            },
+                                            {
+                                                "width": 57,
+                                                "height": 56
+                                            },
+                                            {
+                                                "width": 114,
+                                                "height": 111
+                                            },
+                                            {
+                                                "width": 227,
+                                                "height": 222
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 227,
+                                        "@id": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/mela",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 222,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://mbongiorni5.github.io/TMDRA-DenittoBongiorni/images/mela/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
